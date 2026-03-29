@@ -1,0 +1,9 @@
+{
+  "users": [
+    {"id":1,"name":"Amit","liked_pages":["Tech","Cricket","Netflix"]},
+    {"id":2,"name":"Rahul","liked_pages":["Tech","Music","Football"]},
+    {"id":3,"name":"Sneha","liked_pages":["Cricket","Movies","Travel"]},
+    {"id":4,"name":"Priya","liked_pages":["Tech","Travel","Food"]},
+    {"id":5,"name":"Karan","liked_pages":["Music","Gaming","Tech"]}
+  ]
+}
